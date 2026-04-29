@@ -8,7 +8,7 @@ Check out the poster [here](docs/poster.pdf) and the paper [here](docs/report.pd
 
 ## Results
 
-More training/evaluation metrics can be found in [this report](https://api.wandb.ai/links/razfv07-university-of-bologna/t3nwpt47) on wandb. For an interactive visualization of the plots present in the report, read the [README.md](https://github.com/rfvasile/VisualQA/tree/main/docs) file under docs.
+More training/evaluation metrics can be found in [this report](https://api.wandb.ai/links/razfv07-university-of-bologna/t3nwpt47) on wandb. For an interactive visualization of the plots present in the report, read the [README.md](https://github.com/rfvasile/visual-qa/tree/main/docs) file under docs.
 
 Prior to running the following files, please set up the environment first. The following python notebooks are available to demonstrate key operations:
 
@@ -29,7 +29,7 @@ Required dependencies:
 - Python 3.12
 
 ```shell
-> git clone https://github.com/rfvasile/VisualQA.git
+> git clone https://github.com/rfvasile/visual-qa.git
 > cd visual-qa
 > conda env create -f environment.yml
 ```

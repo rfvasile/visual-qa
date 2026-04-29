@@ -2,7 +2,7 @@
 This directory includes the interactive version of the plots present in the report. 
 
 See:
-- `https://rfvasile.github.io/VisualQA/easyvqa_train_features`
-- `https://rfvasile.github.io/VisualQA/easyvqa_val_features`
-- `https://rfvasile.github.io/VisualQA/daquar_train_features`
-- `https://rfvasile.github.io/VisualQA/daquar_val_features`
+- `https://rfvasile.github.io/visual-qa/easyvqa_train_features`
+- `https://rfvasile.github.io/visual-qa/easyvqa_val_features`
+- `https://rfvasile.github.io/visual-qa/daquar_train_features`
+- `https://rfvasile.github.io/visual-qa/daquar_val_features`
